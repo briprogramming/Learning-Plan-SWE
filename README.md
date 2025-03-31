@@ -32,16 +32,16 @@ I will have completed the following courses/resources/tasks/artifacts as evidenc
 
 [//]: # (Complete this outline to show what you plan on covering each day - remember however, that this will likely change depending on your pprogress.  That is fine - just update it when you need to!)
 
-- Monday [date]:
-- Tuesday [date]:
-- Wednesday [date]:
-- Thursday [date]:
-- Friday [date]:
-- Monday [date]:
-- Tuesday [date]:
-- Wednesday [date]:
-- Thursday [date]:
-- Friday [date]:
+- Monday [3/31- Getting Started in Java, completing my learning plan, and writing out my goals that I want to accomplish]:
+- Tuesday [4/1- Object Oriented Programming using Java]:
+- Wednesday [4/2- Input/Outputs, Arrays, and Strings in Java]:
+- Thursday [4/3- Classes and Methods in Java]:
+- Friday [4/4- Using what I've learned about Java to either rebuild the Scooter Project using Java or creating a new basic project using Java]:
+- Monday [4/7- Review over Javacript Basics: Arrays and Loops]:
+- Tuesday [4/8- Javascript Conditionals ]
+- Wednesday [4/9- Javascript Sequelize]:
+- Thursday [4/10- Javascript OOP]:
+- Friday [4/11- Beginning prepping for final project]:
   
 --- 
 ## Daily Record:
@@ -54,10 +54,10 @@ While your coaches will use it as a soft point of accountability,
 you should use it only as much as it supports your reflections in learning.
 Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 
-| Today's Date  |         | 
+| 03/31/2025  |         | 
 |---|---|
-| What content plan to cover  |  # This should match your learning schedule above |   
-| What content I actually covered | # This is the content you actually managed to get through  |  
-| Reflection on what I learned today |  # How this will apply on the job, something you found enjoyable, insightful, difficult, or questions that arose as result of the learning |   
-| Reflection on how I learned today | # Why was today a good or bad day?  What patterns am I noticing in myself when learning?  How effective was I today as an independent learner?  |
-| Reflections for the following day| # Am I on track against my original goals, or is there a need to adapt? What support will I need from my coach with any changes I may need to make? |
+| What content plan to cover  |  # Getting Started in Java, completing my learning plan, and writing out my goals that I want to accomplish |   
+| What content I actually covered | # etting Started in Java, completing my learning plan, and writing out my goals that I want to accomplish  |  
+| Reflection on what I learned today |  # I was able to get most everything set up such as the courses and videos I will be using to learn Java and Javascript |   
+| Reflection on how I learned today | # It was a good day. I feel like I am going to switch locations like going into the office more to make sure I'm focusing. I also decided to celebrate the small victories through this learning process such as rewards.  |
+| Reflections for the following day| # This is the first day, so I am just focused on getting everything set up for success and reaching out to my manager to ensure what I am working on aligns with what my work after the bootcamp will look like |
