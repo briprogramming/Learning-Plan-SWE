@@ -53,10 +53,10 @@ While your coaches will use it as a soft point of accountability,
 you should use it only as much as it supports your reflections in learning.
 Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 
-| 03/31/2025  |         | 
+| 04/1/2025  |         | 
 |---|---|
-| What content plan to cover  |  # Getting Started in Java, completing my learning plan, and writing out my goals that I want to accomplish |   
-| What content I actually covered | # etting Started in Java, completing my learning plan, and writing out my goals that I want to accomplish  |  
-| Reflection on what I learned today |  # I was able to get most everything set up such as the courses and videos I will be using to learn Java and Javascript |   
-| Reflection on how I learned today | # It was a good day. I feel like I am going to switch locations like going into the office more to make sure I'm focusing. I also decided to celebrate the small victories through this learning process such as rewards.  |
-| Reflections for the following day| # This is the first day, so I am just focused on getting everything set up for success and reaching out to my manager to ensure what I am working on aligns with what my work after the bootcamp will look like |
+| What content plan to cover  |  # Object Oriented Programming using Java |   
+| What content I actually covered | # I redid the Rock Paper Scissors project using Java |  
+| Reflection on what I learned today |  # I was able to learn how to create a new Jav project in VS Code. I also had to ensure I was downloading the complete Java package for my projects too.  |   
+| Reflection on how I learned today | # It was a good day. I feel like I was able to actully code in Java. Although it was a basic project, it really boosted my confidence. |
+| Reflections for the following day| # I feel like since I worked on a project today and feel behind from my plan, I can fully start in learning OOP tomorrow. |
