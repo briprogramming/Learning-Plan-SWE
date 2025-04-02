@@ -32,7 +32,7 @@ I will have completed the following courses/resources/tasks/artifacts as evidenc
 [//]: # (Complete this outline to show what you plan on covering each day - remember however, that this will likely change depending on your pprogress.  That is fine - just update it when you need to!)
 
 - Monday [3/31- Getting Started in Java, completing my learning plan, and writing out my goals that I want to accomplish]:
-- Tuesday [4/1- Object Oriented Programming using Java]:
+- Tuesday [4/1- Object Oriented Programming using Java(Encapsulation, Inhetitance, and Polymorphism)]:
 - Wednesday [4/2- Input/Outputs, Arrays, and Strings in Java]:
 - Thursday [4/3- Classes and Methods in Java]:
 - Friday [4/4- Using what I've learned about Java to either rebuild the Scooter Project using Java or creating a new basic project using Java]:
