@@ -32,7 +32,7 @@ I will have completed the following courses/resources/tasks/artifacts as evidenc
 [//]: # (Complete this outline to show what you plan on covering each day - remember however, that this will likely change depending on your pprogress.  That is fine - just update it when you need to!)
 
 - Monday [3/31- Getting Started in Java, completing my learning plan, and writing out my goals that I want to accomplish]:
-- Tuesday [4/1- Object Oriented Programming using Java(Encapsulation, Inhetitance, and Polymorphism)]:
+- Tuesday [4/1- Object Oriented Programming using Java(Encapsulation, Inheritance, and Polymorphism) ]:
 - Wednesday [4/2- Input/Outputs, Arrays, and Strings in Java]:
 - Thursday [4/3- Classes and Methods in Java]:
 - Friday [4/4- Using what I've learned about Java to either rebuild the Scooter Project using Java or creating a new basic project using Java]:
@@ -53,10 +53,10 @@ While your coaches will use it as a soft point of accountability,
 you should use it only as much as it supports your reflections in learning.
 Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 
-| 04/1/2025  |         | 
+| 04/2/2025  |         | 
 |---|---|
-| What content plan to cover  |  # Object Oriented Programming using Java |   
-| What content I actually covered | # I redid the Rock Paper Scissors project using Java |  
-| Reflection on what I learned today |  # I was able to learn how to create a new Jav project in VS Code. I also had to ensure I was downloading the complete Java package for my projects too.  |   
-| Reflection on how I learned today | # It was a good day. I feel like I was able to actully code in Java. Although it was a basic project, it really boosted my confidence. |
-| Reflections for the following day| # I feel like since I worked on a project today and feel behind from my plan, I can fully start in learning OOP tomorrow. |
+| What content plan to cover  |  # Input/Outputs, Arrays, and Strings in Javaa |   
+| What content I actually covered | # Object Oriented Programming using Java(Encapsulation, Inheritance, and Polymorphism) |  
+| Reflection on what I learned today |  # I learn how to implement object orientied programming into a project. It was definitely a lot of breaking down each terms, gaining an understanding and then applying that knowledge into readable code.  |   
+| Reflection on how I learned today | # This project required a lot of attention since I am still developing my skillset in Encapsulation, Inheritance, Abstraction, and Polymorphism|
+| Reflections for the following day| # I'm starting to catch up to my original learning plan. By adding projects as a key factor on learning Java, it helps me see mistakes and resolutions in real time.  '|
