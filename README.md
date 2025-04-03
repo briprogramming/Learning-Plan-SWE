@@ -53,10 +53,10 @@ While your coaches will use it as a soft point of accountability,
 you should use it only as much as it supports your reflections in learning.
 Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 
-| 04/2/2025  |         | 
+| 04/3/2025  |         | 
 |---|---|
-| What content plan to cover  |  # Input/Outputs, Arrays, and Strings in Javaa |   
-| What content I actually covered | # Object Oriented Programming using Java(Encapsulation, Inheritance, and Polymorphism) |  
-| Reflection on what I learned today |  # I learn how to implement object orientied programming into a project. It was definitely a lot of breaking down each terms, gaining an understanding and then applying that knowledge into readable code.  |   
-| Reflection on how I learned today | # This project required a lot of attention since I am still developing my skillset in Encapsulation, Inheritance, Abstraction, and Polymorphism|
-| Reflections for the following day| # I'm starting to catch up to my original learning plan. By adding projects as a key factor on learning Java, it helps me see mistakes and resolutions in real time.  '|
+| What content plan to cover  |  # Classes and Methods in Java|   
+| What content I actually covered | # Input/Outputs, Arrays, and Strings in Java |  
+| Reflection on what I learned today |  # I got more pratice today in creating arrays and array lists.  |   
+| Reflection on how I learned today | # Today was a struggle for me today because arrays aren't my strongest topic, but I know the more I do them the easier it will become. |
+| Reflections for the following day| # I was ableto really get a better understanding of object oriented programming how it would look in real life projects.  '|
