@@ -55,8 +55,8 @@ Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 
 | 04/3/2025  |         | 
 |---|---|
-| What content plan to cover  |  # Classes and Methods in Java|   
-| What content I actually covered | # Input/Outputs, Arrays, and Strings in Java |  
-| Reflection on what I learned today |  # I got more pratice today in creating arrays and array lists.  |   
-| Reflection on how I learned today | # Today was a struggle for me today because arrays aren't my strongest topic, but I know the more I do them the easier it will become. |
-| Reflections for the following day| # I was ableto really get a better understanding of object oriented programming how it would look in real life projects.  '|
+| What content plan to cover  |  # Using what I've learned about Java to either rebuild the Scooter Project using Java or creating a new basic project using Java|   
+| What content I actually covered | # Classes, Methods and Unit Testing in Java |  
+| Reflection on what I learned today |  # I got the chance to write my first unit test in Java.  |   
+| Reflection on how I learned today | # Today was about balance checking in with my manager and mentor and leveraging that feedback on how to construct my learning to best prepare me for after bootcamp. |
+| Reflections for the following day| # Coming off a groggy day yesterday with arrays, I was able to regather my thoughts and use what I've learned this week going into next week.  '|
