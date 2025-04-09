@@ -53,10 +53,10 @@ While your coaches will use it as a soft point of accountability,
 you should use it only as much as it supports your reflections in learning.
 Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 
-| 04/08/2025  |         | 
+| 04/09/2025  |         | 
 |---|---|
-| What content plan to cover  |  # Review over Javacript Basics: Arrays and Loops|   
-| What content I actually covered | # Javascript Conditionals and building my outline for my hackathon project |  
-| Reflection on what I learned today |  # I learned and got better at writing conditionals in Javascript. I also learning how much prepping and planning goes into a project.  |   
-| Reflection on how I learned today | # Today was calm with revisiting the conditionals, but I began to get a little overwhelmed in writing out the process for my hackathon project. |
-| Reflections for the following day| # I was out of offie that day. |
+| What content plan to cover  |  # Javascript Sequelize|   
+| What content I actually covered | # Completeing my MVP for my hackathon project and working on completing my Wikiverse project|  
+| Reflection on what I learned today |  # I learned to be better with time management and fully completing the wikiverse project. |   
+| Reflection on how I learned today | # I learned by look at MVP exmaples and making sure that mine is organized and achievable.  |
+| Reflections for the following day| # Yesterday consisted of working on conditional more and building an outline for my hackathon project. |
