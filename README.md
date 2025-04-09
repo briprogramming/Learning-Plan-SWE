@@ -53,10 +53,10 @@ While your coaches will use it as a soft point of accountability,
 you should use it only as much as it supports your reflections in learning.
 Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 
-| 04/3/2025  |         | 
+| 04/08/2025  |         | 
 |---|---|
-| What content plan to cover  |  # Using what I've learned about Java to either rebuild the Scooter Project using Java or creating a new basic project using Java|   
-| What content I actually covered | # Classes, Methods and Unit Testing in Java |  
-| Reflection on what I learned today |  # I got the chance to write my first unit test in Java.  |   
-| Reflection on how I learned today | # Today was about balance checking in with my manager and mentor and leveraging that feedback on how to construct my learning to best prepare me for after bootcamp. |
-| Reflections for the following day| # Coming off a groggy day yesterday with arrays, I was able to regather my thoughts and use what I've learned this week going into next week.  '|
+| What content plan to cover  |  # Review over Javacript Basics: Arrays and Loops|   
+| What content I actually covered | # Javascript Conditionals and building my outline for my hackathon project |  
+| Reflection on what I learned today |  # I learned and got better at writing conditionals in Javascript. I also learning how much prepping and planning goes into a project.  |   
+| Reflection on how I learned today | # Today was calm with revisiting the conditionals, but I began to get a little overwhelmed in writing out the process for my hackathon project. |
+| Reflections for the following day| # I was out of offie that day. |
