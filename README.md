@@ -53,10 +53,10 @@ While your coaches will use it as a soft point of accountability,
 you should use it only as much as it supports your reflections in learning.
 Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 
-| 04/10/2025  |         | 
+| 04/11/2025  |         | 
 |---|---|
-| What content plan to cover  |  # Javascript OOP|   
-| What content I actually covered | # Completeing my MVP for my hackathon project and working on completing my Wikiverse project|  
-| Reflection on what I learned today |  # I am trying to map out my plan for this hackathon project where my strech goals are obtainable, but challenging. |   
-| Reflection on how I learned today | # I did a lot of research like watching YouTube videos on encryption, connecting my front end and back end with my database, and what kind of database works best for this kind of project. |
+| What content plan to cover  |  # Beginning prepping for final project|   
+| What content I actually covered | # Beginning prepping for final project|  
+| Reflection on what I learned today |  # I was able to set up my repository and learned how to create a sprint for myself for proper delegation of tasks and for accountability purposes.  |   
+| Reflection on how I learned today | # I did a lot of deep diving into my goals for this project. I want to ensure that I am being very detailed oriented on what my tasks and goals are that way I have path to follow.  |
 | Reflections for the following day| # Yesterday was more of a searched and finding a lot of demos and different approaches to this kind of project. |
