@@ -28,8 +28,8 @@ I will have completed the following courses/resources/tasks/artifacts as evidenc
       - JavaScript Basics for Beginners (https://hplearn.udemy.com/course/javascript-basics-for-beginners/)
    
 ## Learning Schedule:
-
 [//]: # (Complete this outline to show what you plan on covering each day - remember however, that this will likely change depending on your pprogress.  That is fine - just update it when you need to!)
+
 
 - Monday [3/31- Getting Started in Java, completing my learning plan, and writing out my goals that I want to accomplish]:
 - Tuesday [4/1- Object Oriented Programming using Java(Encapsulation, Inheritance, and Polymorphism) ]:
@@ -53,10 +53,10 @@ While your coaches will use it as a soft point of accountability,
 you should use it only as much as it supports your reflections in learning.
 Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 
-| 04/09/2025  |         | 
+| 04/10/2025  |         | 
 |---|---|
-| What content plan to cover  |  # Javascript Sequelize|   
+| What content plan to cover  |  # Javascript OOP|   
 | What content I actually covered | # Completeing my MVP for my hackathon project and working on completing my Wikiverse project|  
-| Reflection on what I learned today |  # I learned to be better with time management and fully completing the wikiverse project. |   
-| Reflection on how I learned today | # I learned by look at MVP exmaples and making sure that mine is organized and achievable.  |
-| Reflections for the following day| # Yesterday consisted of working on conditional more and building an outline for my hackathon project. |
+| Reflection on what I learned today |  # I am trying to map out my plan for this hackathon project where my strech goals are obtainable, but challenging. |   
+| Reflection on how I learned today | # I did a lot of research like watching YouTube videos on encryption, connecting my front end and back end with my database, and what kind of database works best for this kind of project. |
+| Reflections for the following day| # Yesterday was more of a searched and finding a lot of demos and different approaches to this kind of project. |
